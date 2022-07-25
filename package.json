@@ -1,0 +1,9 @@
+{
+  "name": "task-manager",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mrm-core": "^7.0.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Victor Aiyeola",
+  "email": "aiyeolavictor@gmail.com",
+  "url": "https://aiyeola.dev",
+  "github": "aiyeola",
+  "prettierOptions": {
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 2
+  },
+  "aliases": {
+    "node": [
+      "package",
+      "editorconfig",
+      "gitignore",
+      "eslint",
+      "prettier",
+      "lint-staged",
+      "jsconfig"
+    ],
+    "oss": [
+      "package",
+      "license",
+      "readme",
+      "contributing",
+      "editorconfig",
+      "gitignore",
+      "eslint",
+      "prettier",
+      "lint-staged",
+      "jsconfig"
+    ],
+    "site": [
+      "package",
+      "editorconfig",
+      "gitignore",
+      "eslint",
+      "stylelint",
+      "tamia"
+    ],
+    "sync": [
+      "license",
+      "editorconfig",
+      "gitignore",
+      "eslint",
+      "prettier",
+      "lint-staged"
+    ],
+    "nextjs": []
+  }
+}
